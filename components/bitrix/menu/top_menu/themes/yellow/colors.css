@@ -1,0 +1,31 @@
+.bx-yellow.bx-top-nav .bx-top-nav-container {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7db9e8+0,207cca+32,135b96+67,1e5799+100 */
+	background: rgb(125,185,232); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(125,185,232,1) 0%, rgba(32,124,202,1) 32%, rgba(19,91,150,1) 67%, rgba(30,87,153,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(125,185,232,1) 0%,rgba(32,124,202,1) 32%,rgba(19,91,150,1) 67%,rgba(30,87,153,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(125,185,232,1) 0%,rgba(32,124,202,1) 32%,rgba(19,91,150,1) 67%,rgba(30,87,153,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#1e5799',GradientType=0 ); /* IE6-9 */
+}
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-1-lvl.bx-hover>a,
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-1-lvl.bx-active>a,
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-1-lvl:hover>a {
+	background: #faba4a;
+	border-bottom: none;
+}
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-1-lvl.bx-nav-parent.bx-hover>a,
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-1-lvl.bx-nav-parent:hover>a {
+	color: #F9A91D;
+	background-color: transparent;
+}
+/*2 lvl*/
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-2-lvl>a.bx-active,
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-2-lvl>a:hover {
+	color: #F9A91D;
+	background: #F0F0F0;
+}
+/*3 lvl*/
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-3-lvl a.bx-active,
+.bx-yellow.bx-top-nav .bx-top-nav-container .bx-nav-3-lvl a:hover {
+	color: #F9A91D;
+	background: #F0F0F0;
+}
